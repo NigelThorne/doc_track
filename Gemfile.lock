@@ -4,10 +4,10 @@ GEM
     daemons (1.1.9)
     eventmachine (1.0.3)
     eventmachine (1.0.3-x86-mingw32)
-    faraday (0.8.9)
-      multipart-post (~> 1.2.0)
+    faraday (0.17.3)
+      multipart-post (>= 1.2, < 3)
     foreman (0.87.0)
-    multipart-post (1.2.0)
+    multipart-post (2.1.1)
     rack (1.5.2)
     rack-protection (1.5.3)
       rack
