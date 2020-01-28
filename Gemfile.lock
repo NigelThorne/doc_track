@@ -9,7 +9,7 @@ GEM
     foreman (0.87.0)
     multipart-post (2.1.1)
     rack (1.6.12)
-    rack-protection (1.5.3)
+    rack-protection (1.5.5)
       rack
     sinatra (1.4.5)
       rack (~> 1.4)
